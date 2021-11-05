@@ -4,12 +4,12 @@
 <!ENTITY name		"unassigned.devices">
 <!ENTITY author		"dlandon">
 <!ENTITY gitAccount	"bavis-m">
-<!ENTITY version	"2021.11.03-1635962479">
+<!ENTITY version	"2021.11.05-1636128480">
 <!ENTITY launch		"Main/UnassignedDevices">
 <!ENTITY gitURL		"https://github.com/&gitAccount;/&name;/raw/master">
 <!ENTITY pluginURL	"&gitURL;/&name;.plg">
 <!ENTITY supportURL	"https://forums.unraid.net/topic/92462-unassigned-devices-managing-disk-drives-and-remote-shares-outside-of-the-unraid-array/">
-<!ENTITY MD5		"b3e97524914c9477182a1bd3f5d4bf73">
+<!ENTITY MD5		"415e7da1e51457cee56008c782d70780">
 ]>
 
 <PLUGIN name="&name;"
